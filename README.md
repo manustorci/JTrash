@@ -1,18 +1,18 @@
 # JTrash
-JTrash è un'applicazione Java dedicata al gioco di carte chiamato "Trash". Attraverso un'interfaccia grafica realizzata con Java Swing, il gioco permette agli utenti di immergersi in un'esperienza interattiva.
+JTrash is a Java application dedicated to the card game called "Trash." Through a graphical interface built with Java Swing, the game allows users to immerse themselves in an interactive experience.
 
-Specifiche Tecniche e Funzionalità:
+Technical Specifications and Features:
 
-Gestione del Profilo Utente: Gli utenti possono personalizzare i loro profili tramite l'impostazione di un nickname e di un avatar. Il sistema tiene traccia delle partite giocate, vinte e perse, nonché del livello di abilità dell'utente.
+User Profile Management: Users can customize their profiles by setting a nickname and an avatar. The system keeps track of games played, won and lost, as well as the user's skill level.
 
-Modalità di Gioco: JTrash supporta partite che coinvolgono un giocatore umano contro uno, due o tre giocatori artificiali, simulati da sofisticati algoritmi di intelligenza artificiale.
+Game Modes: JTrash supports matches involving one human player against one, two, or three computer-controlled players, simulated by sophisticated artificial intelligence algorithms.
 
-Architettura Software: Il gioco è progettato seguendo il modello MVC (Model-View-Controller) per una chiara separazione delle logiche di presentazione, di business e di dati. Utilizza inoltre il pattern Observer-Observable per gestire le interazioni tra i vari componenti del software senza accoppiamenti stretti.
+Software Architecture: The game is designed following the MVC (Model-View-Controller) model for clear separation of presentation, business, and data logic. It also uses the Observer-Observable pattern to manage interactions between various software components without tight coupling.
 
-Interfaccia Utente Grafica: L'uso di Java Swing o JavaFX garantisce una grafica pulita e reattiva, fondamentale per le animazioni e gli effetti visivi.
+Graphical User Interface: The use of Java Swing or JavaFX ensures clean and responsive graphics, essential for animations and visual effects.
 
-Utilizzo di Stream: L'implementazione sfrutta gli stream di Java per gestire le operazioni sui dati in modo più efficiente ed espressivo.
+Stream Usage: The implementation leverages Java streams to manage data operations more efficiently and expressively.
 
-Audio: JTrash include un sistema di gestione audio, definito nella classe AudioManager.Java, che riproduce vari campioni audio durante il gioco, arricchendo l'esperienza utente con suoni ambientali e feedback sonori.
+Audio: JTrash includes an audio management system, defined in the AudioManager.Java class, which plays various audio samples during the game, enriching the user experience with ambient sounds and sound feedback.
 
-Animazioni ed Effetti Speciali: Anche se limitati, il gioco include diverse animazioni ed effetti speciali che rendono l'interazione più dinamica e coinvolgente
+Animations and Special Effects: Although limited, the game includes various animations and special effects that make the interaction more dynamic and engaging.
