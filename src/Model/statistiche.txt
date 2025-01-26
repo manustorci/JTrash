@@ -1,0 +1,3 @@
+T partite giocate:17 | partite vinte:8 | partite perse:9
+B partite giocate:14 | partite vinte:10 | partite perse:4
+D partite giocate:17 | partite vinte:5 | partite perse:12
