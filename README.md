@@ -16,3 +16,5 @@ Technical Specifications and Features:
 **Audio**: JTrash includes an audio management system, defined in the AudioManager.Java class, which plays various audio samples during the game, enriching the user experience with ambient sounds and sound feedback.
 
 **Animations and Special Effects**: Although limited, the game includes various animations and special effects that make the interaction more dynamic and engaging.
+<img width="1153" alt="Screenshot 2025-01-27 at 14 01 27" src="https://github.com/user-attachments/assets/671761ea-457a-442b-8fe1-e0c5a9cba6da" />
+<img width="1149" alt="Screenshot 2025-01-27 at 14 01 43" src="https://github.com/user-attachments/assets/3a878d04-ec6d-4b56-8500-aa05373dc720" />
